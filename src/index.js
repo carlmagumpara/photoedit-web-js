@@ -14,7 +14,7 @@ console.log("Deepar version: " + deepar.version);
   
   // Initialize DeepAR.
   const deepAR = await deepar.initialize({
-    licenseKey: 'your_license_key_goes_here',
+    licenseKey: '836eec3a4a513adb73d0631cafaa3da68c269e21e5a2c720397a68e8ace41824a92d9abd8884b9c6',
     canvas: canvas,
     rootPath: "./deepar-resources", // See webpack.config.js and package.json build script.
     additionalOptions: {
